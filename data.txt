@@ -1,0 +1,202 @@
+Bihar,INDIAN SCHOOL OF MINES  DEPT. OF MANAGEMENT STUDIES,DHANBAD,vgism@dte.vsnl.net.com,www.klspmer.edu
+Bihar,L.N. MISHRA COLLEGE OF BUSINESS MANAGEMENT,MUZAFFARPUR,lnmcbm@dter.vsnl.net.in,www.lnmcbm.com
+Bihar,DiRECWAY Global Education (IOL),PATNA,,www.dwge.com
+Jharkhand,XLRI,JAMSHEDPUR,xl@xlri.ac.in,www.xlri.ac.in
+Jharkhand,DiRECWAY Global Education (IOL),RANCHI,,www.dwge.com
+Jharkhand,INDIAN INSTITUTE OF SCIENCE & MANAGEMENT,RANCHI,iism@dte.vsnl.net.in,
+Jharkhand,S. N. SINHA INSTITUTE OF BUSINESS MANAGEMENT,RANCHI,snsibm@hotmail.com,www.snsibm.com
+Jharkhand,XAVIER INSTITUTE OF SOCIAL SERVICE ,RANCHI,xisspb7@dte.vsnl.net.in,www.xiss-ranchi.org
+Jharkhand,SNS INSTITUTE OF BUSINESS MANAGEMENT,RANCHI,snsibm@hotmail.com,
+Jharkhand,BIRLA INSTITUTE OF TECHNOLOGY (BIT), RANCHI,www.bitmesra.ac.in,
+Jharkhand,INDIAN SCHOOL OF MINES,DHANBAD,www.ismdhanbad.ac.in   / www.ismdhanbad.org,
+West Bengal,INDIAN INSTITUTE OF MANAGEMENT,CALCUTTA,director@iimcal.ac.in,http://www.iimcal.ac.in
+West Bengal,INDIAN INSTITUTE OF SOCIAL WELFARE,CALCUTTA,iisWest Bengalm@giasc101.vsnl.net.in,www.iisWest Bengalm.edu
+West Bengal,EASTERN INSTITUTE FOR INTEGRATED LEARNING IN MANAGEMENT ,CALCUTTA,eiilm@vsnl.com,www.eiilm.com
+West Bengal,DiRECWAY Global Education (IOL),CALCUTTA,,www.dwge.com
+West Bengal,NATIONAL INSTITUTE OF MANAGEMENT,CALCUTTA,nimc1@hotmail.com,
+West Bengal,GLOBSYN BUSINESS SCHOOL,CALCUTTA,---,http://globsyn.com/gbs
+West Bengal,IIT  KHARAGPUR ,KHARAGPUR,deanvgs@hijli.iitkgp.ernet.in,www.iitkgp.ernet.in
+Assam,ASSAM INSTITUTE OF MANAGEMENT,GUWAHATI,inmanas@gool.dot.net.in,www.members.tripod.com
+Assam,DiRECWAY Global Education (IOL),GUWAHATI,,www.dwge.com
+Assam,DEPARTMENT OF BUSINESS ADMINISTRATION  GUWAHATI UNIVERSITY,GUWAHATI,gu-mba@satyam.net.in,www.gumba.ac.in
+Assam,DEPARTMENT OF BUSINESS ADMINISTRATION SCHOOL OF MANAGEMENT SCIENCES,TEZPUR,madhab@tezu.ernet.in,www.tezu.ernet.in
+Assam,SCHOOL OF MANAGEMENT SCIENCES  TEZPUR UNIVERSITY,TEZPUR,tumba@tesu.ernet.in,www.tezu.ernet.in
+Uttar Pradesh,UNITED INSTITUTE OF MANAGEMENT,ALLAHABAD,unitedad@nde.vsnl.net.in,www.unitedcollege.com
+Uttar Pradesh,BLS INSTITUTE OF MANAGEMENT ,GHAZIABAD,blsim@wilnetonline.net,www.blsim.com
+Uttar Pradesh,GRADUATE SCHOOL OF BUSINESS & ADMINISTRATION ,GHAZIABAD,netgsba@nda.vsnl.net.in,www.gsbaindia.com
+Uttar Pradesh,INSTITUTE OF MANAGEMENT TECHNOLOGY,GHAZIABAD,imtsite@giasdi01.vsnl.net.in,www.imt.edu
+Uttar Pradesh,INSTITUTE OF TECHNOLOGY AND SCIENCE,GHAZIABAD,itsbp@vsnl.com,www.itsgzb.com
+Uttar Pradesh,INTEGRATED ACADEMY OF MANAGEMENT AND TECHNOLOGY,GHAZIABAD,inman@del2.vsnl.net.in,www.inmantec.edu
+Uttar Pradesh,INSTITUTE OF MANAGEMENT EDUCATION ,GHAZIABAD,ime@nalf.vsnl.net.in,www.imesahibabad.com
+Uttar Pradesh,INSTITUTE OF MANAGEMENT STUDIES (IMS),GHAZIABAD,ims@del2.net.in,www.ims-ghaziabad.ac.in
+Uttar Pradesh,INSTITUTE OF MANAGEMENT TECHNOLOGY,GHAZIABAD,imtsite@gias.vsnl.net.in,www.imt.edu
+Uttar Pradesh,INSTITUTE OF PROFESSIONAL EXCELLENCE AND MANAGEMENT ,GHAZIABAD,info@ipemgzb.com,www.ipemgzb.com
+Uttar Pradesh,INSTITUTE OF TECHNOLOGY E' SCIENCE ,GHAZIABAD,itsgzb@vsnl.com,www.itsgzh.com
+Uttar Pradesh,SHIVA INSTITUTE OF MANAGEMENT STUDIES,GHAZIABAD,sims@surevin.net,www.shivaims.com
+Uttar Pradesh,DR. GAUR HARI SINGHANIA INSTITUTE OF MANAGEMENT & RESEARCH,KANPUR,ghsimr@satyam.net.in,www.ghsimr.org
+Uttar Pradesh,DiRECWAY Global Education (IOL),LUCKNOW,,www.dwge.com
+Uttar Pradesh,IIM  LUCKNOW,LUCKNOW,pritam@iiml.ac.in,www.iiml.ac.in
+Uttar Pradesh,INSTITUTE OF PRODUCTIVITY & MANAGEMENT ,LUCKNOW,ipmlko@sancharnet.in,www.ipmindia.org
+Uttar Pradesh,JAIPURIA INSTITUTE OF MANAGEMENT ,LUCKNOW,jimindia@jimindia.com,www.jiml.ac.in
+Uttar Pradesh,INSTITUTE OF BUSINESS MANAGEMENT 'SKYLINE BUILDING'  GURU NANAK NAGAR,MEERUT,ibm.mrt@usa.net,www.imbusinessschool.com
+Uttar Pradesh,INSTITUTE OF PRODUCTIVITY & MANAGEMENT ,MEERUT,ipmindia@nda.vsn.net.in,www.ipmindia.org
+Uttar Pradesh,INTERNATIONAL INSTITUTE OF MANAGEMENT & TECHNOLOGY,MEERUT,iimtmertu_2000@Yahoo.com,www.iimtindia.com
+Uttar Pradesh,MASTER SCHOOL OF MANAGEMENT ,MEERUT,mastersm@nde.vsnl.net.in,www.masterindia.com
+Uttar Pradesh,CENTRE FOR MANAGEMENT DEVELOPMENT ,MODINAGAR,cmdomodi@hotmail.com,www.cmd.edu
+Uttar Pradesh,DiRECWAY Global Education (IOL),NOIDA,,www.dwge.com
+Uttar Pradesh,AMITY BUSINESS SCHOOL,NOIDA,abs@absindia.org,www.amity.edu/abs
+Uttar Pradesh,ISHAN INSTITUTE OF MANAGEMENT AND TECHNOLOGY,NOIDA,iimt@vsnl.com,www.education.vsnl.com
+Uttar Pradesh,FACULTY OF MANAGEMENT STUDIES - BANARAS HINDU UNIVERSITY,VARANASI,fmsbhu@sify.com fmsbhu@banaras.ernet.in,www.bhu.ac.in/fms
+Uttar Pradesh,SCHOOL OF MANAGEMENT SCIENCES,VARANASI,info@smsvaranasi.com,www.smsvaranasi.com
+Uttar Pradesh,INSTITUTE OF MANAGEMENT COMMERCE & VOCATIONAL EDUCATION,MEERUT,imeve@rediffmail.com,
+Uttar Pradesh,RIZVI COLLEGE OF MANAGEMENT STUDIES,GHAZIABAD,rizvimgmt@india.com,
+Uttar Pradesh,LAL BAHADUR SHASTRI INST. OF MGMT. & DEVPT. STUDIES,LUCKNOW,ibslucknow@sify.com,
+Uttar Pradesh,INVERTIS INSTITUTE OF MANAGEMENT STUDIES,BAREILLY,ijms1@ndf.vsnl.net.in,
+Uttar Pradesh,DR. GHS INSTITUTE OF MANAGEMENT & RESEARCH,KANPUR,ghsimr@satyam.net.in,
+Uttar Pradesh,INSTITUTE OF MANAGEMENT SCIENCES - MMEM,LUCKNOW,akids@satyam.net.in,
+Uttar Pradesh,BDS INSTITUTE  OF MANAGEMENT,MEERUT,bdsim_2001@yahoo.com,
+Uttar Pradesh,INSTITUTE OF PRODUCTIVITY AND MANAGEMENT,GHAZIABAD,info@ipmgrb.com,
+Orissa,ACADEMY OF BUSINESS ADMINISTRATION,BALASORE,aba-dir@hotmail.com,www.abaindia.com
+Orissa,DiRECWAY Global Education (IOL),BHUBANESWAR,,www.dwge.com
+Orissa,INSTITUTE OF BUSINESS & COMadhya PradeshUTER STUDIES ,BHUBANESWAR,mbaibcs@rediffmail.com,www.ibcsindia.org
+Orissa,INSTITUTE OF BUSINESS ADMINISTRATION AND TRAINING (IBAT),BHUBANESWAR,ibat@sancharnet.in,www.ibatindia.com
+Orissa,INSTITUTE OF MANAGEMENT & INFORMATION SCIENCE,BHUBANESWAR,imisbbsr@sancharnet.in,www.imisOrissa.com
+Orissa,INSTITUTE OF MANAGEMENT BHUBANESWAR,BHUBANESWAR,imbbsr@hotmial.com,www.shuindia.com
+Orissa,REGIONAL COLLEGE OF MANAGEMENT,BHUBANESWAR,vcm@usa.net.,www.rcmindia.org
+Orissa,XAVIER INSTITUTE OF MANAGEMENT,BHUBANESWAR,info@ximb.ac.in,www.ximb.ac.in
+Orissa,INSTITUTE OF PROFESSIONAL STUDIES AND RESEARCH (IPSAR),CUTTACK,ipsar@vsnl.com,www.ipsarhouse.com
+Orissa,ROURKELA INSTITUTE OF MANAGEMENT STUDIES,ROURKELA,rimsgrol@dte.vsnl.in,www.rims-educating.com
+Orissa,INSTITUTE OF COOPERATIVE MANAGEMENT,BHUBANESWAR,icmmba@rediffmail.com,
+Orissa,ACADEMY OF MANAGEMENT STUDIES,BHUBANESWAR,ams-bbsr-ori@hotmail.com,
+Orissa,ASIAN WORKERS DEVELOPMENT INSTITUTE,ROURKELA,awdibmt@rediffmail.com,
+Orissa,BHUBANESWAR INSTITUTE OF MGMT. & IT,BHUBANESWAR,imbbsr@hotmail.com,
+Madhya Pradesh,C R INSTITUTE OF MANAGEMENT,BHOPAL,crimbv@bomb.vsnl.net.in,www.crimbv@tripod.com
+Madhya Pradesh,EXTOL INSTITUTE OF MANAGEMENT,BHOPAL,extol@bom6.vsnl.net.in,www.angelfize.com
+Madhya Pradesh,INDIAN INSTITUTE OF FOREST MANAGEMENT ,BHOPAL,iifm.org,www.iifm.org
+Madhya Pradesh,INSTITUTE OF PROFESSIONAL EDUCATION AND RESEARCH,BHOPAL,iper@bom6.vsnl.net.in,www.iper.org.in
+Madhya Pradesh,DEPARTMENT OF MANAGEMENT STUDIES  GOVT. MLB ARTS & COMMERCE COLLEGE,GWALIOR,,www.ksehme.com
+Madhya Pradesh,DEVI AHILYA UNIVERSITY  INTERNATIONAL INSTITUTE OF PROFESSIONAL STUDIES ,INDORE,iipsedu@bom.6.vsnl.net.in,www.iips.edu
+Madhya Pradesh,DEVI AHILYA VIDYALAYA  INSTITUTE OF MANAGEMENT STUDIES,INDORE,imsdavv@sanchar.net.in,www.imsdavv.com
+Madhya Pradesh,IIM  INDORE,INDORE,pimrindore@sancharnet.in,www.iimidr.ac.in
+Madhya Pradesh,PRESTIGE INSTITUTE OF MANAGEMENT AND RESEARCH,INDORE,pimrindore@sancharnet.in,www.pimrindore.com
+Madhya Pradesh,SHRI VAISHNAV INSTITUTE OF MANAGEMENT,INDORE,svimi@bom4.vsnl.net.in,www.svimi.indiasite.com
+Madhya Pradesh,UNIVERSITY INSTITUTE OF MANAGEMENT ,JABALPUR,,www.uim@server.com
+Madhya Pradesh,FACULTY OF MANAGEMENT STUDIES ,SAGAR,info@fmssagar.com,www.fmssagar.com
+Madhya Pradesh,PT. JAWAHARLAL NEHRU INSTITUTE OF BUSINESS MANAGEMENT FACULTY OF MANAGEMENT STUDIES,UJJAIN,jnibmujn@bom6vsnl.net.in,www.jnibm.org
+Maharastra,TATA INSTITUTE OF SOCIAL SCIENCES,MUMBAI,,www.tiss.edu
+Maharastra,DiRECWAY Global Education (IOL),MUMBAI,,www.dwge.com
+Maharastra,THE BOMBAY SCHOOL OF BUSINESS,MUMBAI,admission@bsbmumbai.org,www.bsbmumbai.org
+Maharastra,KOLHAPUR INSTITUTE OF TECHNOLOGY  INSTITUTE OF MANAGEMENT EDUCATION OF RESEARCH  ,KOLHAPUR,kitimer@pn3.vsnl.net.in,www.kit-imer.com
+Maharastra,CHETANA'S R. K. INSTITUTE OF MANAGEMENT & RESEARCH,MUMBAI,chetana@bom5.vsnl.net.in,www.chetanamgt.org
+Maharastra,IIT MUMBAI  SHALESH J MEHTA SCHOOL OF MANAGEMENT,MUMBAI,hod@som.iitb.ac.in,www.iitb.ac.in
+Maharastra,JAMNALAL BAJAJ INSTITUTE OF MANAGEMENT STUDIES,MUMBAI,jbifacebom@vsnl.net.in,www.jbims.edu
+Maharastra,K. J. SOMAIYA INSTITUTE OF MANAGEMENT STUDIES AND RESEARCH,MUMBAI,admission@simsr.somaiya.edu,http://simsr.somaiya.edu
+Maharastra,LALA LAJPATRAI INSTITUTE OF MANAGEMENT,MUMBAI,llim@vsnl.com,www.llim.edu
+Maharastra,N. L. DALMIA INSTITUTE OF MANAGEMENT STUDIES AND RESEARCH ,MUMBAI,hldimsr@bom3vsnl.net.in,www.nldalmiaamgmt.org
+Maharastra,NARSEE MONJEE INSTITUTE OF MANAGEMENT STUDIES,MUMBAI,nmims@nmims.edu,www.nmims.edu
+Maharastra,NITIE ,MUMBAI,iMadhya Pradeshress@in7.nitie.edu,www.nitie.edu
+Maharastra,PRIN.L. N. WELINGKAR INSTITUTE OF MANAGEMENT DEVELOPMENT & RESEARCH,MUMBAI,welingkars@vsnl.com,www.welingkars.org
+Maharastra,RIZVI INSTITUTE OF MANAGEMENT STUDIES  & RESEARCH,MUMBAI,rizvimgmt@india.com,www.rizvimgmt.edu
+Maharastra,S. P. JAIN INSTITUTE OF MANAGEMENT & RESEARCH ,MUMBAI,spjicom@spjimr.ernet.in,www.spjimr.org
+Maharastra,SYDENHAM INSTITUTE OF MANAGEMENT AND RESEARCH AND ENTREPRENEURSHIP EDUCATION,MUMBAI,info@simsree.org,www.simsree.org
+Maharastra,INDIRA INSTITUTE OF MANAGEMENT,MUMBAI,indiras@pn.net.in / ,www.iiMadhya Pradesh.freeservers.com
+Maharastra,DiRECWAY Global Education (IOL),NAGPUR,,www.dwge.com
+Maharastra,DEPARTMENT OF MANAGEMENT STUDIES & RESEARCH DR. AMBEDKAR COLLEGE,NAGPUR,dmsracollege@satyam.net.in,www.bmba-ambedkar.com
+Maharastra,INSTITUTE OF MANAGEMENT RESEARCH & TECHNOLOGY ,NASIK,mvpqmrt@bom6.vsnl.net.in,www.imrt.ac.in
+Maharastra,INSTITUTE FOR TECHNOLOGY & MANAGEMENT ,NAVI MUMBAI  ,kharghar@itm.edu,www.itm.edu
+Maharastra,DiRECWAY Global Education (IOL),PUNE,,www.dwge.com
+Maharastra,DATA SYSTEMS RESEARCH FOUNDATION,PUNE,dsrf@akashs.co.in,www.dsrfit.com
+Maharastra,DE SOCIETY'S INSTITUTE OF MANAGEMENT DEVELOPMENT & RESEARCH,PUNE,imdr@vsnl.com,www.imdr.edu
+Maharastra,DEPT OF COMMERCE AND MANAGEMENT SCIENCES  UNIVERSITY OF PUNE,PUNE,sljohsi@unipune.irnet.in,www.pumba.unipune.ernet.in
+Maharastra,DR. VIKHE PATIL FOUNDATION'S CENTRE FOR MANAGEMENT RESEARCH AND DEVELOPMENT ,PUNE,cmrd@vsnl.com,www.cmrd.org
+Maharastra,INDIAN INSTITUTE OF MODERN MANAGEMENT (IIMM),PUNE,Professor_bala@yahoo.com /,www.iimMadhya Pradeshune.com
+Maharastra,NEVILLE WADIA INSTITUTE OF MANAGEMENT STUDIES AND RESEARCH,PUNE,nevillewadia@usa.net,www.Nevillewadia.com
+Maharastra,SYMBIOSIS CENTRE FOR MGT AND HRD ,PUNE,semhrd@pn2.vsnl.net.in,www.scmhrd.edu
+Maharastra,SYMBIOSIS INSTITUTE OF BUSINESS MANAGEMENT ,PUNE,sibm@giaspn01.vsnl.net.in,www.sibm.edu
+Maharastra,SYMBIOSIS INSTITUTE OF MANAGEMENT STUDIES ,PUNE,info@sims.edv,www.sims.edu
+Maharastra,VAIKUNTH MEHTA NATIONAL INSTITUTE OF CO-OPERATIVE MANAGEMENT,PUNE,vmnicom@pn2.vsnl.com,www.vamnicom.org
+Maharastra,INDIRA INSTITUTE OF MANAGEMENT & INDIRA SCHOOL OF MANAGEMENT STUDIES,PUNE ,indirapc@usa.net,www.indiraedu.com
+Maharastra,INDIAN INSTITUTE OF MANAGEMENT TRAINING (IIMT),PUNE,info@iimtpune.com,www.iimtpune.com
+Maharastra,DECCAN EDUCATION SOCIETY'S & CHINTAMANRO INSTITUTE OF MANAGEMENT DEVELOPMENT & RESEARCH,SANGLI,imrs@vsnl.com,www.imrsangli.org
+Maharastra,DiRECWAY Global Education (IOL),THANE,,www.dwge.com
+Gujrat,B. K. SCHOOL OF BUSINESS MANAGEMENT,AHMEDABAD,placement@bkschool.org,www.bkschool.org
+Gujrat,IIM  AHMEDABAD ,AHMEDABAD,iimahd.ernet.in,www.iimahd.ernet.in
+Gujrat,NIRMA INSTITUTE OF MANAGEMENT,AHMEDABAD,nimad1@sancharnet.in,www.nim.ac.in
+Gujrat,DiRECWAY Global Education (IOL),AHMEDABAD,,www.dwge.com
+Gujrat,MEPCO SCHLENK ENGINEERING COLLEGE,ANAND,mepcoeng@vsnl.com,
+Gujrat,INSTITUTE OF RURAL MANAGEMENT,ANAND,ks@fac.irm.ernet.in,www.irma.ac.in
+Gujrat,DiRECWAY Global Education (IOL),ANKLESWAR,,www.dwge.com
+Gujrat,DiRECWAY Global Education (IOL),BARODA,,www.dwge.com
+Gujrat,NAVA BHARATHI COLLEGE OF PG STUDIES,BARODA,,
+Gujrat,M.S. PATEL INSTITUTE,BARODA,fms@satyam.net.in,http://fmsbaroda.tripod.com/epp/
+Gujrat,G. H. PATEL POSTGRADUATE INSTITUTE OF BUSINESS MANAGEMENT,VIDYANAGAR,,
+Gujrat,DEPT. OF BUSINESS MANAGEMENT  BHAVNAGAR UNIVERSITY,BHAVNAGAR,kumardra@rediffmail.com,
+Gujrat,INTERNATIONAL INSTITUTE OF MANAGEMENT,BHAVNAGAR,iimtmeerut2000@yahoo.com,
+Rajsthan,INSTITUTE OF MANAGEMENT FACULTY OF MANAGEMENT ,BIKANER,ranga-rk7@yahoo.com,www.raMadhya Pradeshuria.treeservers.com
+Rajsthan,DiRECWAY Global Education (IOL),JAIPUR,,www.dwge.com
+Rajsthan,DEEPSHIKHA COLLEGE OF TECHNICAL EDUCATION,JAIPUR,dcte@jp1.dot.net.in,www.deepshikha.com
+Rajsthan,INDIA INSTITUTE OF HEALTH MANAGEMENT  RESEARCH,JAIPUR,iihmr@iihmr.org,www.iihmr.org
+Rajsthan,INDIAN INSTITUTE OF RURAL MANAGEMENT,JAIPUR,iir@mailcity.com,www.iirm.org
+Rajsthan,R. A. PODAR INSTITUTE OF MANAGEMENT  FMS  UNIVERSTITY OF RAJASTHAN,JAIPUR,pimfms@jpi.dot.net.in,www.pimraj.com
+Andhra Pradesh,THE INDIAN SCHOOL OF BUSINESS,HYDERABAD,contact_us@isb.edu,www.isb.edu
+Andhra Pradesh,DiRECWAY Global Education (IOL),HYDERABAD,,www.dwge.com
+Andhra Pradesh,THE ICFAI BUSINESS SCHOOLS ,H Q HYDERABAD,info@icfai.org,www.icfai.org
+Andhra Pradesh,DECCAN SCHOOL OF MANAGEMENT,HYDERABAD,masoodhy@usa.net,www.deccancollege.com
+Andhra Pradesh,DEPT OF BUSINESS MGMT  OSMANIA UNIV. ,HYDERABAD,ch.shyamsunder@rediff.com,www.oudbh.com
+Andhra Pradesh,DHRUVA COLLEGE OF MANAGEMENT ,HYDERABAD,mail@dhruvacollege.net,www.dhruvacollege.net
+Andhra Pradesh,NATIONAL INSTITUTE OF AGRICULTURAL EXTENSION MANAGEMENT (MANAGE),HYDERABAD,vedini@manage.gov.in,www.manage.gov.in
+Andhra Pradesh,SCHOOL OF MANAGEMENT STUDIES,HYDERABAD,aawms@uohyd.ernet.in,www.uohyd.ernet.in
+Andhra Pradesh,SULTAN - UL-ULOOM COLLEGE OF BUSINESS ADMINISTRATION,HYDERABAD,shahbaz_ahmed@yahoo.com,www.sultanululoom.org
+Andhra Pradesh,VIVEKANANDA SCHOOL OF POST GRADUATE STUDIES,HYDERABAD,vspgs@hd1.vsnl.net.in,www.vspgs.com
+Andhra Pradesh,BADRUKA  COLLEGE POST GRADUATE CENTRE  ,HYDERABAD ,bcpgc1college@sify.com,www.badrukapgc.edu
+Andhra Pradesh,DAVID MEMORIAL INSTITUTE OF MANAGEMENT,SECUNDERABAD,inmipat@sancharnet.com,www.dmes.david.com
+Andhra Pradesh,VIGNANA JYOTHI INSTITUTE OF MANAGEMENT,SECUNDERABAD,vjim@hd2.dot.net.in,www.vignanajyothi.com
+Andhra Pradesh,DiRECWAY Global Education (IOL),VISAKHAPATNAM,,www.dwge.com
+Andhra Pradesh,GITAM INSTITUTE OF FOREIGN TRADE,VISAKHAPATNAM,gift_edu@yahoo.com,www.gitam.org
+Andhra Pradesh,AMBEDKAR INSTITUTE OF MANAGEMENT STUDIES,VISAKHAPATNAM,aims@saionline.net.in,
+Andhra Pradesh,CHAITANYA BHARATI INSTITUTE OF TECHNOLOGY,HYDERABAD,pnreddy_pn@rediffmail.com,
+Andhra Pradesh,INSTITUTE FOR TECHNOLOGY & MANAGEMENT,WARANGAL,itmw_adm@rediffmail.com,
+Andhra Pradesh,APOLLO INSTITUTE OF HOSPITAL ADMINISTRATION,HYDERABAD,aiha@rediffmail.com,
+Andhra Pradesh,AVANTHI DEGREE & POST GRADUATE COLLEGE,HYDERABAD,avanthipg@mailcity.com,
+Andhra Pradesh,INSTITUTE OF PUBLIC ENTERPRISE,HYDERABAD,ipeouc@hrd2.dot.net.in,
+Andhra Pradesh,N S KOLLA SCHOOL OF BUSINESS,HYDERABAD,avemba@pul.net.in,
+Andhra Pradesh,OSMANIA UNIERSITY - P G COLLEGE,MAHBUBNAGAR,achala56@yahoo.com,
+Andhra Pradesh,AL_QURMOSHI INSTITUTE OF BUSINESS MANAGEMENT,HYDERABAD,alqurmoshi@yahoo.com,
+Andhra Pradesh,AURORA PG COLLEGE,HYDERABAD,pg@aurora.ac.in,
+Andhra Pradesh,PENDEKANTI INSTITUTE OF MANAGEMENT,HYDERABAD,pedakanti@rediffmail.com,
+Andhra Pradesh,PGMGT AND COMadhya PradeshUTER COURSES,HYDERABAD,avemba@pol.net.in,
+Andhra Pradesh,PRAGATI MAHA VIDYALAYA,HYDERABAD,pmvpgcollege@yahoo.com,
+Andhra Pradesh,SAROJINI NAIDU VANITA MAHA VIDYALAYA,HYDERABAD,snvanita@hd2.dot.net.in,
+Andhra Pradesh,DR. N. S. KOLLA SCHOOL OF BUSINESS,VISAKHAPATNAM,dr-sivayya@eth.net,www.drnsk.com
+Andhra Pradesh,CHAITANYA POST GRADUATE COLLEGE,WARANGAL,chaitanyacoll@yahoo.com,www.chaitanyacollege.net
+Goa,GOA INSTITUTE OF MANAGEMENT ,RIBANDAR,admin@gim.ac.in,http://www.gim.ac.in
+Kerala,IIM  KOZHIKODE,CALICUT,ahkalro@iimk.ren.nic.in,www.iimk.ac.in
+Kerala,DiRECWAY Global Education (IOL),COCHIN,,www.dwge.com
+Kerala,RAJAGIRI COLLEGE OF SOCIAL SCIENCES ,COCHIN,rajagiri@md2.vsnl.net.in,www.rajagiri.edu
+Kerala,SCHOOL OF COMMUNICATION AND MANAGEMENT STUDIES,COCHIN,scms@vsnl.net.in,www.scmscochin.com
+Kerala,DiRECWAY Global Education (IOL),TRIVANDRUM,,www.dwge.com
+Kerala,COLLEGE OF ENGINEERING TRIVANDRUM,TRIVANDRUM,cetmba@ftnetwork.com,www.cet.ac.in
+Tamilnadu,ASAN MEMORIAL INSTITUTE OF MANAGEMENT ,CHENNAI,asanedn@md..vsnl.net.in,www.asaneducation.com
+Tamilnadu,DEPARTMENT OF HUMANITIES AND SOCIAL SCIENCES ,CHENNAI,ttn@acer.iitm.ernet.in,www.iitm.ac.in
+Tamilnadu,DEPARTMENT OF MANAGEMENT STUDIES,CHENNAI,,www.cec@giasmdo1.vsnl.net.in
+Tamilnadu,DEPARTMENT OF MANAGEMENT STUDIES  ANNA UNIVERSITY,CHENNAI,annalib@sirnetm.ernet.in,www.annauniv.edu
+Tamilnadu,DiRECWAY Global Education (IOL),CHENNAI,,www.dwge.com
+Tamilnadu,LOYOLA INSTITUTE OF BUSINESS ADMINISTRATION (LIBA),CHENNAI,info@liba.edu,www.liba.edu
+Tamilnadu,MOP VAISHNAV COLLEGE FOR WOMEN,CHENNAI,mopvcfw@giambdo1.vsnl.net.in,www.mop-vaishnav.ac.in
+Tamilnadu,VELAMMAL COLLEGE OF MANAGEMENT & COMadhya PradeshUTER STUDIES ,CHENNAI,vcmcs@eth.ent,www.vcmcs.com
+Tamilnadu,DEPARTMENT OF MANAGEMENT STUDIES  UNIVERSITY OF MADRAS,CHENNAI,contact@voxmanagement.org,www.voxmanagement.org
+Tamilnadu,DiRECWAY Global Education (IOL),COIMBATORE,,www.dwge.com
+Tamilnadu,AMRITA INSTITUTE OF MANAGEMENT ,COIMBATORE,aim@amrita.edu,www.amrita.edu/aim
+Tamilnadu,BHARATHIAR SCHOOL OF MANAGEMENT AND ENTE. DEVELOPMENT  BHARATHIAR UNIVERSITY,COIMBATORE,regr@bharathi.ernet.in,www.bsmed.org
+Tamilnadu,COIMBATORE INSTITUTE OF MANAGEMENT AND TECHNOLOGY,COIMBATORE,cimat@md4.vsnl.net.in,www.kket.org
+Tamilnadu,PSG INSTITUTE OF MANAGEMENT (PSG COLLEGE OF TECHNOLOGY),COIMBATORE,directorim@satyam.com,www.psgim.org
+Tamilnadu,SHRI NEHRU MAHA VIDYALAYA COLLEGE OF ARTS & SCIENCE ,COIMBATORE,esenemvi@md4.vsnl.net.in,www.nehrucollege.org
+Tamilnadu,KONGU ENGINEERING COLLEGE,ERODE,kec@md2.vsnl.net.in,www.kongu.edu
+Tamilnadu,DEPARTMENT OF MANAGEMENT STUDIES,HOSUR,doms_ace_hsr@rediffmail.com,www.adhiyamaan.com
+Tamilnadu,DiRECWAY Global Education (IOL),MADURAI,,www.dwge.com
+Tamilnadu,MADURAI KAMARAJ UNIVERSITY  DEPARTMENT OF MANAGEMENT STUDIES,MADURAI,hod@domsmku.org,www.domsmku.org
+Tamilnadu,THE AMERICAN COLLEGE,MADURAI,american@md.2.vsnl.net.in,www.americancollege.edu
+Tamilnadu,DiRECWAY Global Education (IOL),TIRUCHIRAPPALLI,,www.dwge.com
+Tamilnadu,NATIONAL INSTITUTE OF TECHNOLOGY ,TIRUCHIRAPPALLI,mba@@nitt.edu,www.nitt.edu
+Tamilnadu,BHARATHIDASAN INSTITUTE OF MANAGEMENT,TIRUCHIRAPPALLI,jay@bim.edu,www.bim.edu
+Tamilnadu,INSTITUTE OF MANAGEMENT STUDIES,VELLORE,mrs@mba.vec.ac.in,www.vec.ac.in
